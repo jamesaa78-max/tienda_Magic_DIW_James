@@ -8,27 +8,31 @@
 
 | | |
 |---|---|
-| **Nombre** (real o alias, como prefieras) | |
-| **Usuario de GitHub** | |
-| **Repositorio del proyecto** | *enlace* |
+| **Nombre** (real o alias, como prefieras) | James Álvarez Álvarez|
+| **Usuario de GitHub** | jamesaa78-max|
+| **Repositorio del proyecto** | *[enlace](https://github.com/jamesaa78-max/tienda_Magic_DIW_James)* |
 | **Ciclo y curso** | DAW, 2.º · curso 2026-27 |
 | **Fecha** | AAAA-MM-DD |
 
 ## 2. Nombre del proyecto
 
-*Nombre provisional (puede cambiar). Una frase de qué es.*
+*Tienda Inteligente de MAGIC The Gathering*
 
 ## 3. Qué quiero hacer
 
-*Descríbelo con tus palabras, en 5 a 10 líneas: qué es, qué hace y cómo se usaría.*
+La principal idea del proyecto es una tienda de cartas de la marca Magic the gathering, las principales ideas a añadir en ella son:
+1. Un espacio para organizar el mazo de cartas a comprar, pudiendo mostrar cuales son para comprar o cuales ya posees. 
+2. Una seccion para introducir el tipo de mazo  que es caso de que caiga en alguna teoria o varias.
+3. Debajo de la zona de mazo reomendaciones a cartas a comprar segun las que tengas seleccionadas en la zona de mazxo y el numero de slots vacios.
+4. En caso de tener alguna carta en una cantidad o debajo de lo comunmenet usado resaltarlo.
 
 ## 4. Qué problema o necesidad resuelve
 
-*¿Qué necesidad real del sector o de un colectivo cubre? ¿Cómo lo sabes (la has visto, hablaste con alguien, hay datos)? Anótalo, se desarrolla en `01-analisis.md`.*
+Resuelve la necesidad de necesitase de informarse profundamente para crear una barajo (o comúnmente llamados mazos) original par alguien nuevo en el juego.
 
 ## 5. Para quién
 
-*Quién lo usaría (personas usuarias o clientes) y en qué contexto (empresa, asociación, uso personal...).*
+Para jugadores nuevos al juego o aquellos que hayan jugado en una larga cantidad de tiempo
 
 ## 6. Funcionalidades principales
 
