@@ -1,4 +1,4 @@
-# [Tienda Inteligente de MAGICA The Gathering]
+# [Tienda Inteligente de MAGIC The Gathering]
 
 [Tienda inteligentes para crear mcomprar cartas y recibir ideas]
 
