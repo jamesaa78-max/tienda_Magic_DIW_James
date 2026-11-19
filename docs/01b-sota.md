@@ -20,7 +20,11 @@
 
 | # | Pregunta | Dónde busqué | Fecha |
 |---|---|---|---|
-| P1 | [RELLENAR] | | |
+| P1 | ¿Qué soluciones existen para gestionar inventarios y ventas de cartas Magic? |Webs especializadas y buscadores | 19-11-2026|
+| P2 | ¿Qué sistemas permiten consultar precios y disponibilidad de cartas automáticamente? |Scryfall, tiendas y plataformas de cartas | 19-11-2026|
+| P3 | ¿Cuánto cuestan las soluciones existentes? |Webs oficiales de los productos |19-11-2026 |
+| P4 | ¿Existen alternativas gratuitas o de código abierto? | GitHub y proyectos comunitarios|19-11-2026 |
+| P5 | ¿Qué limitaciones tienen las soluciones actuales para una tienda sin atención permanente? |Documentación y características de las soluciones |19-11-2026 |
 
 ## 2. Soluciones existentes (CE 1a, 1c, 2a)
 
@@ -28,7 +32,13 @@
 
 | Solución | Para quién | Qué hace | Modelo de precio | Enlace y fecha de acceso | Estado (`leído` / `sin leer`) |
 |---|---|---|---|---|---|
-| [RELLENAR] | | | | | |
+| BinderPOS | Tiendas físicas especializadas en cartas coleccionables | Gestiona inventario, ventas, TPV, catálogo de cartas, precios automáticos y modo kiosco | Desde 100 $/mes; Pro 150 $/mes. Necesita Shopify | [Web oficial](https://seller.tcgplayer.com/point-of-sale), acceso 19-11-2026 | leído |
+| TCGplayer Seller Portal | Tiendas y vendedores de cartas coleccionables | Permite publicar cartas, gestionar existencias, actualizar precios y vender online | Gratis para empezar; comisiones por venta. Tarifa estándar: 10,75 % + 2,5 % + 0,30 $ por transacción | [Web oficial](https://seller.tcgplayer.com/pro), acceso 19-11-2026 | leído |
+| Cardmarket | Tiendas y vendedores europeos de cartas | Plataforma de compraventa de cartas Magic; permite publicar inventario y gestionar pedidos | 5 % del valor de cada artículo vendido | [Web oficial](https://www.cardmarket.com/es/Magic/Policies/Fees), acceso 19-11-2026 | leído |
+| ManaBox | Jugadores y coleccionistas de Magic | Escanea cartas, organiza colecciones, consulta precios y construye mazos | Gratis con funciones adicionales PRO: 2,49 €/mes o 24,99 €/año | [Web oficial](https://manabox.app/), acceso 19-11-2026 | leído |
+| Delver Lens | Jugadores, coleccionistas y vendedores de Magic | Reconoce cartas mediante la cámara, organiza colecciones, consulta precios y exporta inventarios | Gratis; versión PRO desde 4 $/mes | [Web oficial](https://delver.app/), acceso 19-11-2026 | leído |
+| MTGJSON | Desarrolladores de aplicaciones y proyectos relacionados con Magic | Proporciona bases de datos de cartas, expansiones y precios en formatos JSON, CSV y SQL | Gratis y código abierto (licencia MIT) | [GitHub](https://github.com/mtgjson/mtgjson), acceso 19-11-2026 | leído |
+| Hoja de cálculo y registro manual | Pequeñas tiendas de cartas con pocos recursos | Permite registrar cartas, cantidades, precios, ventas y movimientos de existencias manualmente | Gratis utilizando una hoja de cálculo | no aplica (solución no digital), 19-11-2026 | leído |
 
 *Figura: comparativa de las soluciones (opcional, un cuadrante o un esquema).*
 
