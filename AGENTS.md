@@ -4,7 +4,7 @@ Reglas de este proyecto para cualquier agente de OpenCode. Versión: 0.1.0.
 
 ## Proyecto
 
-[Nombre de tu proyecto]: [una frase de qué es y para quién]. *(Rellénalo tú.)*
+[Tienda Inteligente MAGIC: [Tienda inteligentes para crear mcomprar cartas y recibir ideas]. *(Rellénalo tú.)*
 
 ## Reglas
 
