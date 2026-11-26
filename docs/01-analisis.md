@@ -4,11 +4,66 @@
 
 ## 1. Sector y empresas (CE 1a, 1b)
 
-*Clasifica **5 o más** empresas del sector por sus características organizativas y el producto o servicio que ofrecen. Describe con detalle **una empresa tipo**: organigrama (un diagrama Mermaid) y funciones de cada departamento.*
+| Empresa | Características organizativas | Productos y servicios |
+|---|---|---|
+| **Asmodee** | Multinacional editorial y distribuidora, con diferentes estudios de desarrollo. | Juegos como *Dobble*, *Exploding Kittens* y *Star Wars: Unlimited*. |
+| **Hasbro** | Gran empresa multinacional con diferentes divisiones de negocio. | Juegos de cartas como *Magic: The Gathering*. |
+| **The Pokémon Company** | Empresa internacional que gestiona una franquicia mediante licencias y colaboraciones. | Juego de cartas coleccionables Pokémon, productos y eventos competitivos. |
+| **Mattel** | Multinacional dedicada al diseño, fabricación y comercialización de juguetes y juegos. | Juegos de cartas como *UNO* y sus distintas versiones. |
+| **Bandai Namco** | Grupo internacional con divisiones especializadas en entretenimiento y juegos de cartas. | *One Piece Card Game*, *Digimon Card Game* y *Dragon Ball Super Card Game*. |
+| **Naipes Heraclio Fournier** | Empresa especializada en fabricación de naipes y productos tradicionales. | Barajas españolas, póker y cartas personalizadas. |
+
+Asmodee es una empresa internacional dedicada a publicar y distribuir juegos de mesa y de cartas. Trabaja con estudios propios y colaboradores externos, comercializando sus productos en numerosos países.
+
+Organigrama
+
+```mermaid
+flowchart TD
+    CEO[Dirección General / CEO] --> CCO[Chief Commercial Officer]
+    CEO --> Fin[Administración y Finanzas]
+    CEO --> Prod[Departamento Editorial / Producción]
+    
+    CCO --> Ventas[Ventas Nacionales]
+    CCO --> Export[Exportación / Licencias]
+    CCO --> Mkt[Marketing y Comunicación]
+    
+    Prod --> Diseno[Diseño y Desarrollo de Juego]
+    Prod --> Logistica[Logística y Distribución]
+    
+    Mkt --> Com[Gestión de Comunidad y Eventos]
+```
 
 ## 2. Necesidades y oportunidades (CE 1c, 1d)
 
-*Lista **priorizada** de las necesidades más demandadas, con el criterio de priorización y la fuente. Valora las oportunidades de negocio con **al menos un dato cuantitativo** y su fuente.*
+### Lista priorizada de necesidades demandadas
+
+**Criterio de priorización:** Frecuencia de demanda en el canal especializado (tiendas y comunidades de juego) y su impacto directo en la decisión de compra y fidelización, según estudios sectoriales y análisis de tendencias.
+
+| Prioridad | Necesidad | Justificación / Fuente |
+| :--- | :--- | :--- |
+| **1** | **Juego organizado y eventos competitivos** (torneos, ligas) | Es el motor de rotación de los TCG. Los espacios especializados lo identifican como servicio esencial para atraer y retener jugadores. |
+| **2** | **Disponibilidad y acceso a stock** (producto sellado y cartas individuales) | La alta demanda provoca desabastecimiento en picos de lanzamiento, lo que genera frustración y pérdida de ventas. |
+| **3** | **Comunidad y espacio físico para jugar** | El juego presencial es un factor clave de crecimiento; los jugadores buscan lugares donde socializar y desconectar de pantallas. |
+| **4** | **Asesoramiento e iniciación** | La variedad de TCG y juegos de mesa requiere orientación para nuevos jugadores; las tiendas ofrecen soporte de iniciación como valor añadido. |
+| **5** | **Contenido y herramientas digitales** (gestión de ligas, stock online) | La integración de tecnología en la experiencia del jugador (inscripciones, seguimiento de resultados) mejora la fidelización y la operativa del negocio. |
+
+### Valoración de oportunidades de negocio (con datos cuantitativos)
+
+1. **Crecimiento acelerado del mercado de TCG en España**
+   - **Dato**: El mercado español de *Trading Card Games* (TCG) se valoró en **92,02 millones de USD en 2025** y se proyecta que alcance los **185,5 millones de USD en 2034**, con una **tasa de crecimiento anual compuesta (CAGR) del 8,1%** (2026-2034).
+   - **Fuente**: Deep Market Insights (2026). *Spain Trading Card Game Market Size & Outlook*.
+
+2. **Los juegos de cartas son la categoría de más rápido crecimiento en el sector juguetero español**
+   - **Dato**: En 2025, la industria juguetera en España creció un 4%, pero la categoría de **juegos de cartas creció un 33%** respecto al año anterior, impulsada por el coleccionismo y el público *kidult*.
+   - **Fuente**: Fournier, citando datos de Circana (2026). *2025, un año récord para los juegos de cartas*.
+
+3. **El mercado global de TCG y el impulso del coleccionismo**
+   - **Dato**: El mercado mundial de juegos de cartas coleccionables se estima en **9.200 millones de USD para 2026**, con previsión de alcanzar los **16.900 millones en 2035**. A nivel nacional, el mercado de juegos de mesa impulsado por los TCG ya supera los **140 millones de euros**, con un crecimiento anual cercano al **7%**.
+   - **Fuente**: Deep Market Insights / Estimaciones del sector recogidas en *Jugamos Todos* (2026).
+
+4. **Alta rotación y facturación local concentrada en torneos**
+   - **Dato**: En zonas como Cartagena, los juegos de cartas (Magic, Pokémon, Dragon Ball) mueven una facturación estimada de **más de 1 millón de euros anuales** y congregan a unas **1.500 personas al mes** gracias a sus torneos.
+   - **Fuente**: *La Verdad* (2026). *La moda de juegos de cartas... factura más de un millón de euros en Cartagena*.
 
 ## 3. Tipo de proyecto elegido (CE 1e)
 
