@@ -16,7 +16,7 @@
 
 *El problema en **una frase**. Después, **3-5 preguntas** que vas a contestar con este documento (por ejemplo: «¿Qué soluciones existen?», «¿Cómo ganan dinero?», «¿Qué tecnologías usan?»). Indica **dónde y cuándo** buscaste (buscadores, tiendas de aplicaciones, repositorios, informes del sector).*
 
-**Problema:** [RELLENAR: una frase]
+**Problema:** ¿Como compro eficientemente en Magic the gathering?
 
 | # | Pregunta | Dónde busqué | Fecha |
 |---|---|---|---|
